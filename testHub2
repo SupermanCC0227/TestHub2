@@ -5,4 +5,8 @@ add new words
 add new words
 add new words
 this is my new branch
+<<<<<<< HEAD
 this is my old branch
+=======
+this is my old branch
+>>>>>>> dev
